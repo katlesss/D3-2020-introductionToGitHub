@@ -28,10 +28,14 @@ h2
   font-family: "Ultra";
   font-size: 7em;
   color: white;
-
+justify-content: flex-start;
 
 }
 
+.and {
+  font-family: 'Ultra';
+  font-size: 40px;
+}
 h3
 {
   color: rgb(165, 209, 82);
@@ -49,7 +53,6 @@ font-family: 'Almendra Display';
   color:rgb(145, 40, 59);
 }
 h4{
-
-  font-family: 'Yeseva One' ;
-  color:white;
-}
+font-family: 'Scope One' ;
+  color:black;
+  font-size: 14px;
